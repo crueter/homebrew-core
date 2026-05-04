@@ -1,10 +1,9 @@
 class Cgit < Formula
   desc "Hyperfast web frontend for Git repositories written in C"
   homepage "https://git.zx2c4.com/cgit/"
-  url "https://git.zx2c4.com/cgit/snapshot/cgit-1.2.3.tar.xz"
-  sha256 "5a5f12d2f66bd3629c8bc103ec8ec2301b292e97155d30a9a61884ea414a6da4"
+  url "https://git.zx2c4.com/cgit/snapshot/cgit-1.3.1.tar.xz"
+  sha256 "c40fd71e120783d5e57d822208f3e17333cde2cd4baf3e7c8c75630b68afe12a"
   license "GPL-2.0-only"
-  revision 1
 
   livecheck do
     url "https://git.zx2c4.com/cgit/refs/tags"
