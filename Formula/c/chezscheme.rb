@@ -1,8 +1,8 @@
 class Chezscheme < Formula
   desc "Implementation of the Chez Scheme language"
   homepage "https://cisco.github.io/ChezScheme/"
-  url "https://github.com/cisco/ChezScheme/releases/download/v10.3.0/csv10.3.0.tar.gz"
-  sha256 "d237d9874c6e8b0ccf7758daa8286a6e825528b13ce3b2bca56eb1f73cddbc2c"
+  url "https://github.com/cisco/ChezScheme/releases/download/v10.4.0/csv10.4.0.tar.gz"
+  sha256 "54d0d19e4cd51878f88fb4b7ddb44079be6ca12bcf14163f8ea53cbcb4633385"
   license "Apache-2.0"
 
   bottle do
