@@ -1,8 +1,8 @@
 class Adapterremoval < Formula
   desc "Rapid adapter trimming, identification, and read merging"
   homepage "https://github.com/MikkelSchubert/adapterremoval"
-  url "https://github.com/MikkelSchubert/adapterremoval/archive/refs/tags/v2.3.4.tar.gz"
-  sha256 "a4433a45b73ead907aede22ed0c7ea6fbc080f6de6ed7bc00f52173dfb309aa1"
+  url "https://github.com/MikkelSchubert/adapterremoval/archive/refs/tags/v3.0.0.tar.gz"
+  sha256 "08145e38f27bfd94e9c95864365726bc63e9325a8b39b973b9ab6c87bd8c93aa"
   license "GPL-3.0-or-later"
 
   bottle do
